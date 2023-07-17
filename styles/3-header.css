@@ -6,7 +6,7 @@ header {
     
 }
 header .logo {
-    background-image: url("logo - Shortcut.lnk");
+    background-image: url("../images/logo.png");
     background-repeat: no-repeat;
     margin-left: 20px;
     height: 100%;
